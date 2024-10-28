@@ -63,6 +63,4 @@ This list is not sorted in any way. You can click on the name of the book to dow
 
 [Stroustup - The C++ Programming Language [4th Edition]](https://github.com/Infinicus/Engineering-Books/blob/main/Programming/C%2C%20C%2B%2B%2C%20C%23/Stroustrup%20-%20The%20C%2B%2B%20Programming%20Language%20%5B4th%20Edition%5D%20(2013).pdf)  
 
-## Contributors
-### Giga Hidjrika Aura Adkhy ([Infinicus](https://github.com/Infinicus))  
-### Ahmad Zaki Akmal ([ahmadzaki2975](https://github.com/ahmadzaki2975))
+
